@@ -1,0 +1,42 @@
+{
+    "2d": {
+        "Mean_clean_iou_score": 0.5861064370187117,
+        "Mean_noisy_iou_score": 0.5864427850374272,
+        "Mean_clean_dice_score": 0.7301618694164124,
+        "Mean_noisy_dice_score": 0.7304494797067334,
+        "Mean_clean_pix_acc_score": 0.9967576095036098,
+        "Mean_noisy_pix_acc_score": 0.9967591294220516
+    },
+    "3d": {
+        "Mean_clean_iou_score": 0.69891199377834,
+        "Mean_noisy_iou_score": 0.6989462328307281,
+        "Mean_clean_dice_score": 0.8206464152226026,
+        "Mean_noisy_dice_score": 0.8206944077020603,
+        "Mean_clean_pix_acc_score": 0.9976066393511636,
+        "Mean_noisy_pix_acc_score": 0.9976047234875816
+    },
+    "2d-cv": {
+        "Mean_clean_iou_score": 0.5885660280189604,
+        "Mean_noisy_iou_score": 0.5884159893508765,
+        "Mean_clean_dice_score": 0.73130678908805,
+        "Mean_noisy_dice_score": 0.7311922607155444,
+        "Mean_clean_pix_acc_score": 0.9967702456883022,
+        "Mean_noisy_pix_acc_score": 0.9967685980456216
+    },
+    "3d-cv": {
+        "Mean_clean_iou_score": 0.6883189082210126,
+        "Mean_noisy_iou_score": 0.6885712294551211,
+        "Mean_clean_dice_score": 0.8118347797792099,
+        "Mean_noisy_dice_score": 0.8120408559756224,
+        "Mean_clean_pix_acc_score": 0.9976331123283931,
+        "Mean_noisy_pix_acc_score": 0.9976336530276707
+    },
+    "genesis": {
+        "Mean_clean_iou_score": 0.03140669983434245,
+        "Mean_noisy_iou_score": 0.031398300751225384,
+        "Mean_clean_dice_score": 0.06019268458981675,
+        "Mean_noisy_dice_score": 0.060187051172230964,
+        "Mean_clean_pix_acc_score": 0.9603127454008374,
+        "Mean_noisy_pix_acc_score": 0.9604017053331647
+    }
+}
